@@ -70,4 +70,4 @@ Este não é apenas um repositório de testes.
 
 ## 👨‍💻 Autor
 
-Projeto criado para portfólio de Quality Assurance (QA Engineer)
+Ryan Nóbrega (QA Engineer)
